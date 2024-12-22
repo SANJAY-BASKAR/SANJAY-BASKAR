@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is SANJAY BASKAR and I'm a Developer, from INDIA</h2>
+<h2 align="left">#######################################################################################################</h2>
 
 ###
 
