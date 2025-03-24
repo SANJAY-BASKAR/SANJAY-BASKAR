@@ -17,5 +17,7 @@ I am a aspiring computer science student who is currently working on projects on
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/SANJAY-BASKAR/SANJAY-BASKAR/output/snake.svg" alt="Snake animation" />
 
+###
 
